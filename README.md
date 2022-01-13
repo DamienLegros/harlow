@@ -22,4 +22,4 @@ harlow$ bazel run :python_harlow_bad
 
 **Environnment Harlow**
 
-![Harlow](https://github.com/DamienLegros/harlow-project/blob/main/Resultats/harlow.gif?raw=true)
+<img src="https://github.com/DamienLegros/harlow-project/blob/main/Resultats/harlow.gif?raw=true" width="300" />
